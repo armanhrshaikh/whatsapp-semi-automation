@@ -1,6 +1,6 @@
-# whatsapp-semi-automation
-The Projects are based on automations, testings which are realted to IoT, cyber security and robotics industry.
-aka wa (whats app) is a small tool to automate your whatsapp messages on your android devices.
+# whatsapp-semi-automation (wa)
+wa (whats app) is a small tool to automate your whatsapp messenger on your android devices. 
+The people who are in digital marketing, testings, automation can participate in this project.
 
 This tool can be used for the below tasks
 * Reach in private of all your whatsapp status viewers
