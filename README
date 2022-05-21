@@ -1,0 +1,29 @@
+-- PREREQUISITES --
+* Basics of linux
+* Termux android application
+* Understanding of whatsapp applications
+
+# STAGE 1
+
+# To unzip your wa.zip
+unzip wa.zip
+# To install dependencies
+chmod 777 *
+./script.sh
+
+
+
+# STAGE 2
+
+# To extract, clean numbers from a screenshot
+mytess screenshotname.jgp
+vim output.txt -S wa.vim
+
+# To start automating whatsapp
+wa -f output.txt
+
+# To pause your work
+Ctrl+z
+
+# To resume your work from same window
+fg

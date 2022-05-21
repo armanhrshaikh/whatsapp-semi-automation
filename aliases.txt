@@ -1,0 +1,11 @@
+export EDITOR=vim
+alias encodeURIComponent='perl -pe '\''s/([^a-zA-Z0-9_.!~*()'\''\'\'''\''-])/sprintf("%%%02X",ord($1))/ge'\'
+clear
+alias e="exit"
+alias c="clear"
+bind 'set completion-ignore-case on'
+alias mytess='_() { tesseract "$1" output --dpi 150 ;} ; _ '
+alias send='_() { termux-open --send "$1" ;} ; _ '
+alias bal="termux-sms-send -n 199 BAL; sleep 10; termux-sms-list | tail -n 10"
+alias ct=cat
+alias py=python
